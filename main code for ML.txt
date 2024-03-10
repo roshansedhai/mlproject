@@ -1,0 +1,2 @@
+To actiavte the environement vs terminal
+conda activate C:\Users\rosha\Desktop\MLProject\venv
